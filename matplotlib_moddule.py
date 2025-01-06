@@ -1,13 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
+# In[2]:
 
 
 #import matplotlib to show diagram
@@ -129,6 +123,13 @@ def visualization():
         plt.show()
 
 
+
+# In[ ]:
+
+
+
+
+
 # In[ ]:
 
 
@@ -136,7 +137,6 @@ def visualization():
 
 
 # In[ ]:
-
 
 
 
